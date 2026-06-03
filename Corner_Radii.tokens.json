@@ -1,0 +1,85 @@
+{
+  "xs": {
+    "$type": "number",
+    "$value": 4,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:33:301",
+      "com.figma.scopes": [
+        "ALL_SCOPES"
+      ]
+    }
+  },
+  "s": {
+    "$type": "number",
+    "$value": 8,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:33:302",
+      "com.figma.scopes": [
+        "ALL_SCOPES"
+      ]
+    }
+  },
+  "m": {
+    "$type": "number",
+    "$value": 12,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:33:303",
+      "com.figma.scopes": [
+        "ALL_SCOPES"
+      ]
+    }
+  },
+  "l": {
+    "$type": "number",
+    "$value": 16,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:33:304",
+      "com.figma.scopes": [
+        "ALL_SCOPES"
+      ]
+    }
+  },
+  "xl": {
+    "$type": "number",
+    "$value": 20,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:33:305",
+      "com.figma.scopes": [
+        "ALL_SCOPES"
+      ]
+    }
+  },
+  "xxl": {
+    "$type": "number",
+    "$value": 24,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:33:306",
+      "com.figma.scopes": [
+        "ALL_SCOPES"
+      ]
+    }
+  },
+  "xxxl": {
+    "$type": "number",
+    "$value": 40,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:33:307",
+      "com.figma.scopes": [
+        "ALL_SCOPES"
+      ]
+    }
+  },
+  "circle": {
+    "$type": "number",
+    "$value": 9999,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:33:308",
+      "com.figma.scopes": [
+        "ALL_SCOPES"
+      ]
+    }
+  },
+  "$extensions": {
+    "com.figma.modeName": "Mode 1"
+  }
+}
