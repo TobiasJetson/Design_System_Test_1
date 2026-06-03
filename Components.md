@@ -60,10 +60,10 @@ All token values below are mandatory for the default card state unless explicitl
 | Width | `315px` | — |
 | Height | `435px` | — |
 | Corner radius | `xl` | `Corner_Radii.tokens.json` |
-| Body fill | `Off White` from `App Colours` | `Colours.tokens.json` |
+| Body fill | `App_Off White` from `App Colours` | `Colours.tokens.json` |
 | Shadow | `Level 5 Shadow` | `Shadows.tokens.json` |
 | Border width | `m` | `Borders.tokens.json` |
-| Border colour | `Soft Gray` from `App Colours` | `Colours.tokens.json` |
+| Border colour | `App_Soft Gray` from `App Colours` | `Colours.tokens.json` |
 
 ---
 
