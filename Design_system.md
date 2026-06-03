@@ -23,8 +23,10 @@ Reference file: `Sizes_Viewports.json`
 
 **Rules:**
 - Mobile: always use the mobile safe viewport size defined in the file
+- Mobile: if the use case is for an app, default viewport fill colour is 'App_Extra Soft Gray'. Reference file: `Colours.tokens.json`
 - Desktop: always use the desktop safe viewport size defined in the file
 - Never design to raw screen dimensions
+
 
 ---
 
