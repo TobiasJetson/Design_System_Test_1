@@ -609,6 +609,25 @@
           "ALL_SCOPES"
         ]
       }
+    },
+    "App_Pure White": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          1,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#FFFFFF"
+      },
+      "$extensions": {
+        "com.figma.variableId": "VariableID:37:389",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
     }
   },
   "$extensions": {
