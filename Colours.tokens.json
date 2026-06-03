@@ -615,16 +615,6 @@
           "ALL_SCOPES"
         ]
       }
-    },
-    "Number": {
-      "$type": "number",
-      "$value": 0,
-      "$extensions": {
-        "com.figma.variableId": "VariableID:33:299",
-        "com.figma.scopes": [
-          "ALL_SCOPES"
-        ]
-      }
     }
   },
   "$extensions": {
