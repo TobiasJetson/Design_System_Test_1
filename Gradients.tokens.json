@@ -1,0 +1,121 @@
+{
+  "Card": {
+    "Border Gradient": {
+      "Gradient Type": {
+        "$type": "string",
+        "$value": "Linear",
+        "$extensions": {
+          "com.figma.variableId": "VariableID:37:387",
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.type": "string"
+        }
+      },
+      "Angle (degrees)": {
+        "$type": "string",
+        "$value": "0",
+        "$extensions": {
+          "com.figma.variableId": "VariableID:37:388",
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.type": "string"
+        }
+      },
+      "Top Gradient Stop Position (%)": {
+        "$type": "number",
+        "$value": 0,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:37:385",
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      },
+      "Bottom Gradient Stop Position (%)": {
+        "$type": "number",
+        "$value": 100,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:37:386",
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      },
+      "Top Gradient Stop Opacity (%)": {
+        "$type": "number",
+        "$value": 100,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:37:392",
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      },
+      "Bottom Gradient Stop Opacity (%)": {
+        "$type": "number",
+        "$value": 100,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:37:393",
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ]
+        }
+      },
+      "Top Gradient Stop Colour": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            1,
+            1,
+            1
+          ],
+          "alpha": 1,
+          "hex": "#FFFFFF"
+        },
+        "$extensions": {
+          "com.figma.variableId": "VariableID:37:390",
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.aliasData": {
+            "targetVariableId": "VariableID:05bf27f186769b339452db55594078d944dc1314/-1:-1",
+            "targetVariableName": "App Colours/App_Pure White",
+            "targetVariableSetId": "VariableCollectionId:786cd8f651ecccf9782f542b798424d4ee419f9d/-1:-1",
+            "targetVariableSetName": "Colours"
+          }
+        }
+      },
+      "Bottom Gradient Stop Colour": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.886274516582489,
+            0.8823529481887817,
+            0.8274509906768799
+          ],
+          "alpha": 1,
+          "hex": "#E2E1D3"
+        },
+        "$extensions": {
+          "com.figma.variableId": "VariableID:37:391",
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.aliasData": {
+            "targetVariableId": "VariableID:921bb1438d47b89ec74a72c97977ff7c90a9ea99/-1:-1",
+            "targetVariableName": "App Colours/App_Soft Gray",
+            "targetVariableSetId": "VariableCollectionId:786cd8f651ecccf9782f542b798424d4ee419f9d/-1:-1",
+            "targetVariableSetName": "Colours"
+          }
+        }
+      }
+    }
+  },
+  "$extensions": {
+    "com.figma.modeName": "Mode 1"
+  }
+}
