@@ -63,7 +63,7 @@ All token values below are mandatory for the default card state unless explicitl
 | Body fill | `App_Off White` from `App Colours` | `Colours.tokens.json` |
 | Shadow | `Level 5 Shadow` | `Shadows.tokens.json` |
 | Border width | `m` | `Borders.tokens.json` |
-| Border colour | `App_Soft Gray` from `App Colours` | `Colours.tokens.json` |
+| Border gradient | `Border Gradient` from `Card` | `Gradients.tokens.json` |
 
 ---
 
