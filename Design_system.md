@@ -43,4 +43,9 @@ Reference file: `Borders.tokens.json`
 
 ---
 
+## Gradients
+Reference file: `Gradients.tokens.json`
+
+---
+
 *This file will expand to include typography, spacing, motion, and pattern references as the system grows.*
